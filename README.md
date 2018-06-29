@@ -1,2 +1,7 @@
-# R.I.D.M.-installer
-It installs Retail Interactive Display Menu, currently it does not launch as the needed keys have not been leaked
+# eXhop
+Nintendo Switch title downloader (like FreeShop), based on Rei's BogInstaller
+
+## BE CAREFUL, THERE'S A HIGH BAN RISK!
+
+Simply put the title ID of the title you want to download on "sdmc:/switch/eXhop.txt", and enjoy!
+Only the first line is read, one id.
